@@ -1,1 +1,1 @@
-sshfs sawstudents@cosmopol.is:webapps/cdls/commonplace/wiki Writing -o nonempty
+sshfs sawstudents@cosmopol.is:webapps/cdls/commonplace/wiki Writing/cdls -o nonempty
